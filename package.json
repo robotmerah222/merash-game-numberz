@@ -1,0 +1,23 @@
+{
+  "name": "merash-game-numberz",
+  "version": "1.0.0",
+  "description": "A CLI game where you guess a randomly generated number within a custom range.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/robotmerah222/merash-game-numberz"
+    },
+    "homepage": {
+    "type": "link",
+    "url": "https://twitter.com/mcdowall_li"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10",
+    "merash-game-numberz": "^1.0.0"
+  },
+  "author": "Merash",
+  "license": "ISC"
+}
